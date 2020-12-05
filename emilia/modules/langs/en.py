@@ -33,15 +33,14 @@ Available commands are:
     "Ada yang bisa saya bantu? 😊": "මට ඔබට උදව් කල හැක්කේ කෙසේද? 😊",
     "start_text": """
     
-Hi {}, my name is {}! 
+Hi {}, my name is Liza Snow! 
 
-I am a group manager bot created by [my master](tg://user?id={}) based on Project Daisy written by [InukaASiTH](https://visi.tk/inukaasith)
+I am a group manager bot created by [My Master](tg://user?id={}) 
 
 You can find the list of available commands with /help.
 
 Want to Chat with me, send /addchat and reply to my message to start chatting.
 
-[- The Source code is available on Github -](https://github.com/InukaAsith/Daisy.git)
 ©2020 by [Infinity JE®](https://infinityje.com). 
 """,
     "help_text": """
@@ -64,7 +63,7 @@ the things I can help you with.
 And the following:
 """,
     "donate_text": """Hello, glad to hear you want to donate!
-Need a lot of work for [my creator](https://visi.tk/inukaasith) to take me to my place now, and \
+Need a lot of work for [my creator](https://t.me/ImJanindu) to take me to my place now, and \
 every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
