@@ -35,7 +35,7 @@ Available commands are:
     
 Hi {}, my name is Liza Snow! 
 
-I am a group manager bot created by [My Master](tg://user?id={}) 
+I am a group manager bot created by [My Master](https://t.me/ImJanindu) 
 
 You can find the list of available commands with /help.
 
