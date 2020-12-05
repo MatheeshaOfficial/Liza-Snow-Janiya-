@@ -1,11 +1,11 @@
-# The Daisy Robot
+# Liza Snow Robot
 All Errors are now fixed and the bot is working fine..
 
 ![Daisy](https://telegra.ph/file/d0c0156487ee42d9685e9.jpg)
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviya-admin/Liza-Snow-Janiya-.git)
 
 A Modular Group management Bot on Sinhala
 
